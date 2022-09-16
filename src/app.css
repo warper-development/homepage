@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer components {
-    .navitem {
-        @apply text-gray-200 text-2xl px-2 rounded-2xl hover:bg-zinc-600 hover:text-gray-100 mx-2 px-4 transition-all duration-200;
-    }
+  .navitem {
+    @apply text-gray-200 text-2xl px-2 rounded-2xl hover:bg-zinc-600 hover:text-gray-100 mx-2 px-4 transition-all duration-200;
+  }
 }
